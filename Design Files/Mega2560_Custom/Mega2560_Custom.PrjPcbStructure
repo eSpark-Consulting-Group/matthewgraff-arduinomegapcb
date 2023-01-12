@@ -1,7 +1,8 @@
-Record=TopLevelDocument|FileName=Controller-Sheet.SchDoc|SheetNumber=5
-Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=GSM-Sheet.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=Level-Shifter-Sheet.SchDoc|SheetNumber=3
-Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=Power-Sheet.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=SDCard-Sheet.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=Thermocouple-Sheet.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Controller-Sheet.SchDoc|FileName=USB-to-UART-Sheet.SchDoc|SheetNumber=6
+Record=TopLevelDocument|FileName=Top-Sheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_Controller-Sheet|SchDesignator=U_Controller-Sheet|FileName=Controller-Sheet.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=Controller-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_GSM-Sheet|SchDesignator=U_GSM-Sheet|FileName=GSM-Sheet.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=GSM-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_Level-Shifter-Sheet|SchDesignator=U_Level-Shifter-Sheet|FileName=Level-Shifter-Sheet.SchDoc|SheetNumber=4|SymbolType=Normal|RawFileName=Level-Shifter-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_Power-Sheet|SchDesignator=U_Power-Sheet|FileName=Power-Sheet.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Power-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_SDCard-Sheet|SchDesignator=U_SDCard-Sheet|FileName=SDCard-Sheet.SchDoc|SheetNumber=8|SymbolType=Normal|RawFileName=SDCard-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_Thermocouple-Sheet|SchDesignator=U_Thermocouple-Sheet|FileName=Thermocouple-Sheet.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=Thermocouple-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top-Sheet.SchDoc|Designator=U_USB-to-UART-Sheet|SchDesignator=U_USB-to-UART-Sheet|FileName=USB-to-UART-Sheet.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=USB-to-UART-Sheet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
