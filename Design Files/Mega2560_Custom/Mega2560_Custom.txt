@@ -1,0 +1,42 @@
+Board Information Report
+Filename     : C:\Users\LiberDB\Documents\GitHub\matthewgraff-arduinomegapcb\Design Files\Mega2560_Custom\Mega2560_Custom.PcbDoc
+Date         : 1/18/2023
+Time         : 9:33:15 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4724.41milsx2992.126mils
+    Components on board, 197
+count : 2
+
+Routing Information
+    Routing completion, 39.43%
+    Connections, 487
+    Connections routed, 192
+    Connections remaining, 295
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 538, 0, 338, 0, 40, 5, 0
+    Bottom Layer, 0, 148, 0, 178, 0, 27, 0, 0
+    Dimension, 0, 0, 0, 25, 2, 0, 0, 188
+    Board Outline, 0, 0, 0, 5, 0, 0, 0, 0
+    Multi-Layer, 0, 72, 100, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 2, 0, 0, 819, 272, 23, 1, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 4, 0, 0, 328, 146, 32, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 2, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 16, 0, 5, 2, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 14
+
+Drill Pairs, Vias
+count : 0
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    29.528mils, 0, 0
+count : 2
