@@ -1,8 +1,8 @@
 Board Information Report
-Filename     : E:\matthewgraff-arduinomegapcb\Design Files\Mega2560_Custom\Mega2560_Custom.PcbDoc
-Date         : 1/20/2023
-Time         : 6:14:46 PM
-Time Elapsed : 00:00:00
+Filename     : C:\Users\XPENDER\Documents\GitHub\matthewgraff-arduinomegapcb\Design Files\Mega2560_Custom\Mega2560_Custom.PcbDoc
+Date         : 1/21/2023
+Time         : 12:00:13 AM
+Time Elapsed : 00:00:01
 
 General
     Board Size, 4724.41milsx2992.126mils
@@ -10,23 +10,23 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 99.59%
+    Routing completion, 99.38%
     Connections, 487
-    Connections routed, 485
-    Connections remaining, 2
+    Connections routed, 484
+    Connections remaining, 3
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 538, 0, 945, 0, 129, 5, 0
-    Bottom Layer, 0, 148, 0, 695, 0, 79, 0, 0
+    Top Layer, 0, 538, 0, 931, 0, 131, 31, 0
+    Bottom Layer, 0, 148, 0, 698, 0, 83, 13, 0
     Dimension, 0, 0, 0, 25, 2, 0, 0, 188
     Board Outline, 0, 0, 0, 5, 0, 0, 0, 0
-    Multi-Layer, 0, 72, 547, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 72, 849, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
-    Top Overlay, 2, 0, 0, 819, 272, 23, 1, 0
+    Top Overlay, 2, 0, 0, 835, 273, 23, 1, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
     Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
-    Bottom Overlay, 4, 0, 0, 326, 146, 32, 0, 0
+    Bottom Overlay, 4, 0, 0, 329, 146, 32, 0, 0
     Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Drill Guide, 0, 0, 0, 2, 0, 0, 0, 0
     Keep-Out Layer, 0, 0, 0, 16, 0, 5, 2, 0
@@ -35,3 +35,30 @@ count : 14
 
 Drill Pairs, Vias
 count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 10.961, 7071.788, 78%
+    Bottom Layer, 10.926, 7049.203, 77%
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    29.528mils, 0, 0
+count : 2
+
+Plated Hole Size, Pads, Vias
+    0mils, 0, 0
+    11.811mils, 0, 0
+    35.433mils, 0, 0
+    37.402mils, 0, 0
+    40.158mils, 0, 0
+    51.181mils, 0, 0
+    122.047mils, 0, 0
+count : 7
+
+Plated Slot Size / Length, Pads
+    19.685mil / 45.276mil, 0
+    19.685mil / 47.244mil, 0
+    19.685mil / 62.992mil, 0
+    21.654mil / 33.465mil, 0
+count : 4
