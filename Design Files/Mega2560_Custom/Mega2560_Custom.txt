@@ -1,7 +1,7 @@
 Board Information Report
 Filename     : E:\matthewgraff-arduinomegapcb\Design Files\Mega2560_Custom\Mega2560_Custom.PcbDoc
-Date         : 1/19/2023
-Time         : 6:54:37 PM
+Date         : 1/20/2023
+Time         : 6:14:46 PM
 Time Elapsed : 00:00:00
 
 General
@@ -10,18 +10,18 @@ General
 count : 2
 
 Routing Information
-    Routing completion, 76.18%
+    Routing completion, 99.59%
     Connections, 487
-    Connections routed, 371
-    Connections remaining, 116
+    Connections routed, 485
+    Connections remaining, 2
 count : 4
 
 Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
-    Top Layer, 0, 538, 0, 685, 0, 102, 5, 0
-    Bottom Layer, 0, 148, 0, 422, 0, 64, 0, 0
+    Top Layer, 0, 538, 0, 945, 0, 129, 5, 0
+    Bottom Layer, 0, 148, 0, 695, 0, 79, 0, 0
     Dimension, 0, 0, 0, 25, 2, 0, 0, 188
     Board Outline, 0, 0, 0, 5, 0, 0, 0, 0
-    Multi-Layer, 0, 72, 221, 0, 0, 0, 1, 0
+    Multi-Layer, 0, 72, 547, 0, 0, 0, 1, 0
     Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
     Top Overlay, 2, 0, 0, 819, 272, 23, 1, 0
     Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
