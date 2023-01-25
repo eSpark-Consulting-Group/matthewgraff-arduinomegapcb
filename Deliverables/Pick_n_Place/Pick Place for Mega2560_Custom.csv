@@ -4,9 +4,9 @@ C:\Users\XPENDER\Documents\GitHub\matthewgraff-arduinomegapcb\Design Files\Mega2
 ========================================================================================================================
 File Design Information:
 
-Date:       22/01/23
-Time:       16:13
-Revision:   3fa32c329a2fd2f214705afab7c66ea76df101cb
+Date:       25/01/23
+Time:       20:49
+Revision:   2df66e31fa94627ecac7bcb016d5de6cfda49ea0
 Variant:    No variations
 Units used: mil
 
@@ -118,8 +118,8 @@ Units used: mil
 "J10","U.FL-R-SMT-1(80)","TopLayer","-22,823mil","1646,949mil","90","-22,823mil","1646,949mil","15,531mil","1646,949mil"
 "J9","XKNANO-113","TopLayer","748,972mil","2557,807mil","180","748,972mil","2557,807mil","1004,878mil","2350,720mil"
 "J8","U.FL-R-SMT-1(80)","TopLayer","-23,177mil","1371,949mil","90","-23,177mil","1371,949mil","15,177mil","1371,949mil"
-"J2","10118194-0001LF","TopLayer","293,452mil","2723,799mil","180","293,452mil","2670,649mil","344,634mil","2670,649mil"
-"J1","10118194-0001LF","TopLayer","1332,453mil","2723,799mil","180","1332,453mil","2670,649mil","1383,634mil","2670,649mil"
+"J2","10118194-0001LF","TopLayer","293,452mil","2739,799mil","180","293,452mil","2686,649mil","344,634mil","2686,649mil"
+"J1","10118194-0001LF","TopLayer","1332,453mil","2739,799mil","180","1332,453mil","2686,649mil","1383,634mil","2686,649mil"
 "FB9","MMZ2012R102ATD25","TopLayer","1880,823mil","560,319mil","90","1880,823mil","560,319mil","1880,823mil","520,949mil"
 "FB8","MMZ2012R102ATD25","TopLayer","1681,823mil","560,319mil","90","1681,823mil","560,319mil","1681,823mil","520,949mil"
 "FB7","MMZ2012R102ATD25","TopLayer","3133,823mil","560,319mil","90","3133,823mil","560,319mil","3133,823mil","520,949mil"
@@ -130,7 +130,7 @@ Units used: mil
 "FB2","MMZ2012R102ATD25","TopLayer","3574,823mil","560,319mil","90","3574,823mil","560,319mil","3574,823mil","520,949mil"
 "FB1","100MHz","BottomLayer","1152,823mil","2597,949mil","180","1152,823mil","2597,949mil","1206,366mil","2597,949mil"
 "F3","SMD0603-050","TopLayer","4478,823mil","1554,949mil","180","4478,823mil","1554,949mil","4512,287mil","1554,949mil"
-"F2","SMD0603-050","BottomLayer","354,823mil","2724,949mil","0","354,823mil","2724,949mil","321,358mil","2724,949mil"
+"F2","SMD0603-050","BottomLayer","340,823mil","2732,949mil","0","340,823mil","2732,949mil","307,358mil","2732,949mil"
 "F1","1206L300SLTHYR","BottomLayer","1323,823mil","2597,949mil","180","1323,823mil","2597,949mil","1383,980mil","2597,949mil"
 "D29","ESD5451N-2/TR","BottomLayer","4406,823mil","1052,949mil","0","4406,823mil","1052,949mil","4390,090mil","1052,949mil"
 "D28","ESD5451N-2/TR","BottomLayer","4029,823mil","943,949mil","0","4029,823mil","943,949mil","4013,090mil","943,949mil"
@@ -158,7 +158,7 @@ Units used: mil
 "D5","ESD5302F-3/TR","TopLayer","4230,823mil","1460,949mil","90","4230,823mil","1460,949mil","4270,193mil","1423,547mil"
 "D4","ESD5302F-3/TR","TopLayer","308,823mil","2491,949mil","0","308,823mil","2491,949mil","271,421mil","2452,579mil"
 "D3","PESD5V0H1BSFYL","BottomLayer","4490,634mil","1436,764mil","270","4490,634mil","1436,764mil","4490,634mil","1444,638mil"
-"D2","PESD5V0H1BSFYL","BottomLayer","321,823mil","2770,823mil","90","321,823mil","2770,823mil","321,823mil","2762,949mil"
+"D2","PESD5V0H1BSFYL","BottomLayer","307,000mil","2786,874mil","90","307,000mil","2786,874mil","307,000mil","2779,000mil"
 "D1","PESD5V0H1BSFYL","BottomLayer","1383,634mil","2739,823mil","90","1383,634mil","2739,823mil","1383,634mil","2731,949mil"
 "C52","4.7uF","TopLayer","4013,823mil","1245,949mil","270","4013,823mil","1245,949mil","4013,823mil","1275,949mil"
 "C51","100nF","TopLayer","3961,051mil","1246,421mil","270","3961,051mil","1246,421mil","3961,051mil","1276,421mil"
