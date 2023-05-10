@@ -23,7 +23,9 @@ The battery that will be used for input is https://voltaicsystems.com/amp/v75/
 
 ![image](https://user-images.githubusercontent.com/76909080/209631864-0b5c67e2-68c8-4860-b638-d2efe5090fa7.png)
 
-## TO DO
-1. Design schematic v1 RevA
-2. Design PCB v1 RevA
-3. Submit deliverables to client for fabrication
+## Change log v2.0
+1. 10K pull up on ON/OFF pin of LM2596S (U2) to prevent it turning ON in unknown/floating state
+2. Write label/overlay text of both OLED LED connector pinout on PCB to know the pinouts easily.
+3. Solder Bridge added between the inductor and GNSS_ANT netlabel to provide selection between Active and Passive GPS antenna.
+4. ADC1 has the capability to drive a 4..20mA sensor using 250ohm resistance. ADC0 stays as is for applying direct 0..5V. RC filter, buffer and necessary input protection added on analog inputs.
+5. Added another 4-pin OLED header LED10 and marked LED7 as DNP.
