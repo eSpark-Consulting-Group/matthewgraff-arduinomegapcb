@@ -1,13 +1,11 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [Mega2560_Custom_v2.0.PrjPcb]
-   Generated File[Mega2560_Custom-RoundHoles.TXT]
-   Generated File[Mega2560_Custom-SlotHoles.TXT]
-   Generated File[Mega2560_Custom.LDP]
-   Generated File[Mega2560_Custom.DRR]
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [Mega2560_Custom_v2.0.PrjPcb]
+   Generated File[Pick Place for Mega2560_Custom.txt]
+   Generated File[Pick Place for Mega2560_Custom.csv]
 
 
-Files Generated   : 4
+Files Generated   : 2
 Documents Printed : 0
 
-Finished Output Generation At 9:03:09 PM On 5/16/2023
+Finished Output Generation At 5:08:48 PM On 5/18/2023
