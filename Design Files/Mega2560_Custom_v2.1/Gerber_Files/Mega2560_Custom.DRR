@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Mega2560_Custom.PcbDoc   5/18/2023  5:07:59 PM
+NCDrill File Report For: Mega2560_Custom.PcbDoc   8/10/2023  10:33:30 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,15 +8,15 @@ ASCII SlotHoles File : Mega2560_Custom-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             812       PTH        81.46inch (2069.08mm)
+T1      12mil (0.3mm)                                             Round             777       PTH        82.43inch (2093.68mm)
 T2      20mil (0.5mm)                                             Slot              7         PTH        12.68inch (322.03mm)
 T3      22mil (0.55mm)                                            Slot              4         PTH        2.41inch (61.30mm)
 T4      37mil (0.95mm)                                            Round             8         PTH        0.72inch (18.21mm)
-T5      40mil (1.02mm)                                            Round             16        PTH        2.21inch (56.26mm)
-T6      51mil (1.3mm)                                             Round             24        PTH        7.66inch (194.66mm)
+T5      40mil (1.02mm)                                            Round             16        PTH        2.35inch (59.61mm)
+T6      51mil (1.3mm)                                             Round             24        PTH        7.50inch (190.61mm)
 T7      122mil (3.1mm)                                            Round             4         PTH        11.67inch (296.47mm)
 T8      30mil (0.75mm)                                            Round             2         NPTH       0.33inch (8.50mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              877
+Totals                                                                              842
 
-Total Processing Time (hh:mm:ss) : 00:00:00
+Total Processing Time (hh:mm:ss) : 00:00:01

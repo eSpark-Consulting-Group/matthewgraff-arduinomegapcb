@@ -1,4 +1,4 @@
-DRC Rules Export File for PCB: E:\matthewgraff-arduinomegapcb\Design Files\Mega2560_Custom_v2.0\Mega2560_Custom.PcbDoc
+DRC Rules Export File for PCB: C:\Users\LiberDB\Documents\GitHub\matthewgraff-arduinomegapcb\Design Files\Mega2560_Custom_v2.1\Mega2560_Custom.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_1|Scope=Board|Minimum=0.00
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.00
