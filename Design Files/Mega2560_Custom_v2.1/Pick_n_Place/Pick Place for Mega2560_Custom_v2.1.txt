@@ -4,9 +4,9 @@ C:\Users\LiberDB\Documents\GitHub\matthewgraff-arduinomegapcb\Design Files\Mega2
 ========================================================================================================================
 File Design Information:
 
-Date:       10/08/23
-Time:       22:30
-Revision:   5c56c49ff3a35594d015ef48617af623e30e1862
+Date:       13/09/23
+Time:       18:51
+Revision:   3ffc6227b1cfdac6777ee73ca9cde99037bb553d
 Variant:    No variations
 Units used: mm
 
@@ -168,6 +168,7 @@ R12        TopLayer 97,1042mm    16,4592mm    270      97,1042mm  16,4592mm 97,1
 R13        TopLayer 67,1576mm    16,4592mm    270      67,1576mm  16,4592mm 67,1576mm  17,2212mm 
 R14        TopLayer 80,4164mm    20,4978mm    0        80,4164mm  20,4978mm 79,6544mm  20,4978mm 
 R15        TopLayer 48,4124mm    20,4724mm    0        48,4124mm  20,4724mm 47,6504mm  20,4724mm 
+R16        TopLayer 75,3618mm    9,3726mm     270      75,3618mm  9,3726mm  75,3618mm  10,1346mm 
 R17        TopLayer 43,1800mm    9,3472mm     270      43,1800mm  9,3472mm  43,1800mm  10,1092mm 
 R18        TopLayer 83,3628mm    16,4592mm    270      83,3628mm  16,4592mm 83,3628mm  17,2212mm 
 R19        TopLayer 51,3080mm    16,4592mm    270      51,3080mm  16,4592mm 51,3080mm  17,2212mm 
@@ -207,7 +208,6 @@ R52        TopLayer 33,4010mm    9,9822mm     180      33,4010mm  9,9822mm  34,1
 R53        TopLayer 0,4826mm     36,0934mm    90       0,4826mm   36,0934mm 0,4826mm   35,3314mm 
 R54        TopLayer 35,8902mm    15,4051mm    180      35,8902mm  15,4051mm 36,6522mm  15,4051mm 
 R55        TopLayer 38,4556mm    18,8976mm    270      38,4556mm  18,8976mm 38,4556mm  19,6596mm 
-R56        TopLayer 75,3882mm    9,3472mm     270      75,3882mm  9,3472mm  75,3882mm  10,1092mm 
 SB1        TopLayer 110,3839mm   45,4393mm    180      110,3839mm 45,4393mm 111,1459mm 45,4393mm 
 SW1        TopLayer 99,7667mm    52,8561mm    0        99,7667mm  52,8561mm 95,2167mm  55,1061mm 
 U1         TopLayer 82,1919mm    49,8729mm    270      82,1919mm  49,8729mm 79,1419mm  52,1729mm 
