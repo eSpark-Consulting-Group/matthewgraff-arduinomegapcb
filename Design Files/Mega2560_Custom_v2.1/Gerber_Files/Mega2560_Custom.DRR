@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Mega2560_Custom.PcbDoc   9/13/2023  6:49:58 PM
+NCDrill File Report For: Mega2560_Custom.PcbDoc   11/1/2023  10:28:30 AM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,7 +8,7 @@ ASCII SlotHoles File : Mega2560_Custom-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      12mil (0.3mm)                                             Round             777       PTH        82.28inch (2089.91mm)
+T1      12mil (0.3mm)                                             Round             779       PTH        83.14inch (2111.85mm)
 T2      20mil (0.5mm)                                             Slot              7         PTH        12.68inch (322.03mm)
 T3      22mil (0.55mm)                                            Slot              4         PTH        2.41inch (61.30mm)
 T4      37mil (0.95mm)                                            Round             8         PTH        0.72inch (18.21mm)
@@ -17,6 +17,6 @@ T6      51mil (1.3mm)                                             Round         
 T7      122mil (3.1mm)                                            Round             4         PTH        11.67inch (296.47mm)
 T8      30mil (0.75mm)                                            Round             2         NPTH       0.33inch (8.50mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              842
+Totals                                                                              844
 
 Total Processing Time (hh:mm:ss) : 00:00:01
